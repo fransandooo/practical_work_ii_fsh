@@ -1,0 +1,6 @@
+Miguel;mg;mg;mg;12
+asdad;adsasda;123;adadsd@gmail.com;2
+fgfgf;gfgfgfg;qwer;fgfgfg@gmail.com;12
+fran;fransandoo;12345;franciscosh@gmail.com;8
+MiguelGordo;micasa;1234;misaca2000@gmail.com;4
+gonzalo;gonza;gon123;gonza@gmail.com;4
